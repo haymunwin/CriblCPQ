@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SBQQ__LookupField__c</fullName>
+    <deprecated>false</deprecated>
+    <description>API Name of the custom field used in the query.</description>
+    <inlineHelpText>API Name of the custom field used in the query.</inlineHelpText>
+    <label>Lookup Field</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>SBQQ__Category__c</fullName>
+                <default>false</default>
+                <label>SBQQ__Category__c</label>
+            </value>
+            <value>
+                <fullName>OLCountry__c</fullName>
+                <default>false</default>
+                <label>OLCountry__c</label>
+            </value>
+            <value>
+                <fullName>IPIndustry__c</fullName>
+                <default>false</default>
+                <label>IPIndustry__c</label>
+            </value>
+            <value>
+                <fullName>IPProduct__c</fullName>
+                <default>false</default>
+                <label>IPProduct__c</label>
+            </value>
+            <value>
+                <fullName>IPSLA__c</fullName>
+                <default>false</default>
+                <label>IPSLA__c</label>
+            </value>
+            <value>
+                <fullName>Product__c</fullName>
+                <default>false</default>
+                <label>Product__c</label>
+            </value>
+            <value>
+                <fullName>Price__c</fullName>
+                <default>false</default>
+                <label>Price__c</label>
+            </value>
+            <value>
+                <fullName>Max_Volume__c</fullName>
+                <default>false</default>
+                <label>Max_Volume__c</label>
+            </value>
+            <value>
+                <fullName>Min_Volume__c</fullName>
+                <default>false</default>
+                <label>Min_Volume__c</label>
+            </value>
+            <value>
+                <fullName>Geolocation__c</fullName>
+                <default>false</default>
+                <label>Geolocation__c</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
