@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTestSuite</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    
+    <types>
+        <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    
+    <types>
+        <members>Account</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__Quote__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__QuoteLine__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ProductOption__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ProductFeature__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ProductRule__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__Dimension__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ProductAttributeSet__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__PriceRule__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__PriceCondition__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__PriceAction__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ConfigurationAttribute__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ConfigurationRule__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <types>
+        <members>SBQQ__ErrorCondition__c</members>
+        <name>CustomObject</name>
+    </types>
+
+    <version>61.0</version>
+</Package>
